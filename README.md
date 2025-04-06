@@ -4,6 +4,7 @@ Hello! I'm ErilOwl, i'm studying to became a Linux Server Dev & Administrator.
 I'm Willing to be a active and productive supporter to the community and also learn a lot in this journey together.
 
 ## Conect-se Comigo
+[![Linkedin](https://img.shields.io/badge/Linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erike-fernando-barreto-cortes/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@marcodiaz/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikefernandob/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:erikefbarreto@gmail.com)
